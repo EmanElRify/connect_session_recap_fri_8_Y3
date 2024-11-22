@@ -1,0 +1,15 @@
+Quiz (deadline 30 Nov 5:00 am)
+https://quizizz.com/join?gc=33652096
+
+Github Link
+https://github.com/EmanElRify/connect_session_recap_fri_8_Y3
+
+Activity 2
+https://docs.google.com/document/d/1XBD1oQH3GiM_QNDdLdY0zxH3Wg1ehJFWCuCdpCEFDNk/edit?usp=sharing
+
+Activity 1 solution
+https://github.com/EmanElRify/connect_session_recap_fri_8_Y3/session_1_Introduction_to_Python_Programming/activity_1_sol.py
+
+
+Activity 1 Bonus solution
+https://github.com/EmanElRify/connect_session_recap_fri_8_Y3/session_1_Introduction_to_Python_Programming/Bonus_activity_1.py
