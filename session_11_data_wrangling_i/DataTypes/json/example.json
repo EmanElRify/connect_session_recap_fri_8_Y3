@@ -1,0 +1,23 @@
+{
+  "name": "Company",
+  "employees": [
+    {
+      "name": "John",
+      "department": "HR"
+    },
+    {
+      "name": "Alice",
+      "department": "Finance"
+    }
+  ],
+  "products": [
+    {
+      "name": "Product A",
+      "price": 20
+    },
+    {
+      "name": "Product B",
+      "price": 30
+    }
+  ]
+}
